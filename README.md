@@ -1,4 +1,4 @@
-# AudioDemo v1.0
+# a LanDen Labs - AudioDemo
 Demonstrate playing audio wav files from res/raw and assets directories
 
 Apk v1.0 available in app directory 
