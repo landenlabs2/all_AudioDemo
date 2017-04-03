@@ -5,6 +5,17 @@ Demonstrate playing audio wav files from res/raw and assets directories
 
 Apk v1.0 available in app directory 
 
+
+## &#x1F534;
+```diff
+- Project has moved back to LanDenLabs GitHub, follow link for latest updates.
+``` 
+&#x1F534; https://github.com/landenlabs
+
+## ====== Following is no longer updated ======
+
+
+
 ![assets directory](https://raw.github.com/landenlabs2/all_AudioDemo/master/screenshots/audiodemo.png)
 
 
